@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900;1,6..12,1000&family=Rubik+Glitch+Pop&family=Saira+Condensed:wght@100;200;300;400;500;700;800;900&display=swap');
+
+body {
+  background-image: url(../img/background-2.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#show-contact {
+  display: none;
+  margin-bottom: 5px;
+  background-color: coral;
+  /* margin-right: 20px; */
+  padding-left: 20px;
+  width: 90%;
+  border-radius: 15px;
+  height: 100%;
+}
+
+body {
+  height: 130vh;
+}
+
+.T {
+  color: red;
+}
+
+.E {
+  color: darkorange;
+}
+
+.X {
+  color: yellow;
+}
+
+.TA {
+  color: green;
+}
+
+.A {
+  color: blue;
+}
+
+.N {
+  color: indigo;
+}
+
+.AE {
+  color: violet;
+}
+
+.L {
+  color: crimson;
+}
+
+.Y {
+  color: cyan;
+}
+
+.Z {
+  color: coral;
+}
+
+.EA {
+  color: maroon;
+}
+
+#new-first-name {
+  padding-left: 20px;
+  background-color: crimson;
+  color: white;
+}
+
+#new-first-name:hover {
+  background-color: white;
+  color: black;
+}
+
+#new-last-name {
+  background-color: indigo;
+  color: white;
+}
+
+#new-last-name:hover {
+  background-color: white;
+  color: black;
+}
+
+#new-phone-number {
+  background-color: coral;
+  color: white;
+}
+
+#new-phone-number:hover {
+  background-color: white;
+  color: black;
+}
+
+#new-email {
+  background-color: cyan;
+  color: white;
+}
+
+#new-email:hover {
+  background-color: white;
+  color: black;
+}
+
+#new-address {
+  width: 460px;
+  background-color: darkslategrey;
+  color: white;
+}
+
+#new-address:hover {
+  background-color: white;
+  color: black;
+}
+
+#new-work-address {
+  width: 460px;
+  background-color: darkslateblue;
+  color: white;
+}
+
+#new-work-address:hover {
+  background-color: white;
+  color: black;
+}
+
+#new-other-address {
+  width: 460px;
+  background-color: hotpink;
+  color: white;
+}
+
+#new-other-address:hover {
+  background-color: white;
+  color: black;
+}
+
+#new-work-email {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+#new-work-email:hover {
+  background-color: white;
+  color: black;
+}
+
+.button:hover {
+  background-color: white;
+  color: black;
+}
+
+.button {
+  border: none;
+  border-radius: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 20%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.deleteButton {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 20%;
+  margin-top: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.deleteButton:hover {
+  background-color: white;
+  color: black;
+}
+
+label {
+  font-family: 'Saira Condensed', sans-serif;
+  font-size: 20px;
+}
+
+.landing-name {
+  margin-top: 20px;
+}
+
+.other-addresses {
+  display: none;
+}
+
+.other-emails {
+  display: none;
+}
+
+
+.click-event {
+  background-image: url(../img/click-event.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250vh;
+}
+
+h3 {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.coloured{
+  color: darkcyan;
+}
+
+.multi-coloured{
+color: darksalmon;
+}
